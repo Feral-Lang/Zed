@@ -24,6 +24,7 @@
 "true" @boolean
 "false" @boolean
 "nil" @constant.builtin
+"self" @variable.special
 
 ; Literals
 (integer_literal) @number
