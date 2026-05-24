@@ -1,0 +1,11 @@
+id = "feral"
+name = "Feral"
+version = "0.0.1"
+schema_version = 1
+authors = ["Elec <feral@mail.electrux.me>"]
+description = "Language support for the Feral programming language"
+repository = "https://github.com/Feral-Lang/Zed"
+
+[grammars.feral]
+repository = "https://github.com/Feral-Lang/tree-sitter-feral"
+rev = "7dcdbcfc26c8c847f91cf909a461130f52aa7b5f"
